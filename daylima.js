@@ -10,8 +10,5 @@
         Hello
 
 
-
-        Lakukan perubahan
-
     </body>
 </html>
